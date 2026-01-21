@@ -7,19 +7,19 @@ const prevBtn = document.querySelector(".prev");
 const perfumes = {
     A: {
         name: "LA SÉRÉNITÉ – Sense of Touch",
-        image: baseUrl + "assets/img/product/parfume-D-01.jpg"
+        image: baseUrl + "https://noorfaizin.github.io/fiertes/assets/img/product/parfume-D-01.jpg"
     },
     B: {
         name: "SWEET TOOTH – Sense of Taste",
-        image: baseUrl + "assets/img/product/parfume-C-01.jpg"
+        image: baseUrl + "https://noorfaizin.github.io/fiertes/assets/img/product/parfume-C-01.jpg"
     },
     C: {
         name: "TIMBRE & SAX – Sense of Sound",
-        image: baseUrl + "assets/img/product/parfume-B-01.jpg"
+        image: baseUrl + "https://noorfaizin.github.io/fiertes/assets/img/product/parfume-B-01.jpg"
     },
     D: {
         name: "BLOOMORA – Sense of Sight",
-        image: baseUrl + "assets/img/product/parfume-A-01.jpg"
+        image: baseUrl + "https://noorfaizin.github.io/fiertes/assets/img/product/parfume-A-01.jpg"
     }
 };
 
